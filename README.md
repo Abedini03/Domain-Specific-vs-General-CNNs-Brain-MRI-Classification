@@ -1,5 +1,6 @@
 # Domain-Specific vs General CNNs for Brain MRI Classification
 
+[![arXiv](https://img.shields.io/badge/arXiv-2104.00298-b31b1b.svg)](https://arxiv.org/abs/2104.00298)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
@@ -15,9 +16,9 @@
 
 This repository contains the complete implementation for our research paper comparing domain-specific versus general-purpose pretrained CNNs for brain tumor classification from MRI scans. The study systematically evaluates three pretrained models under identical small-data conditions:
 
-- **RadImageNet DenseNet121** (domain-specific medical pretraining)
-- **EfficientNetV2S** (general-purpose ImageNet pretraining)  
-- **ConvNeXt-Tiny** (modern general-purpose ImageNet pretraining)
+- **RadImageNet DenseNet121** (domain-specific medical pretraining) (https://github.com/BMEII-AI/RadImageNet)
+- **EfficientNetV2S** (general-purpose ImageNet pretraining) (https://github.com/da2so/efficientnetv2)
+- **ConvNeXt-Tiny** (modern general-purpose ImageNet pretraining) (https://github.com/facebookresearch/ConvNeXt)
 
 ## Key Findings
 
