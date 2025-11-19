@@ -1,6 +1,6 @@
 # Domain-Specific vs General CNNs for Brain MRI Classification
 
-[![arXiv](https://img.shields.io/badge/arXiv-2104.00298-b31b1b.svg)](https://arxiv.org/abs/2104.00298)
+[![arXiv](https://img.shields.io/badge/arXiv-2104.00298-b31b1b.svg)](https)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
