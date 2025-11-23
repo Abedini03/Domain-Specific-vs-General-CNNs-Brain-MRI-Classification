@@ -10,8 +10,6 @@
 **Official repository for the paper:**  
 **"General vs Domain-Specific CNNs: Understanding Pretraining Effects on Brain MRI Tumor Classification"**
 
-*Helia Abedini, Saba Rahimi, and Reza Vaziri*  
-
 ## Overview
 
 This repository contains the complete implementation for our research paper comparing domain-specific versus general-purpose pretrained CNNs for brain tumor classification from MRI scans. The study systematically evaluates three pretrained models under identical small-data conditions:
