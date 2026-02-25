@@ -22,13 +22,13 @@ This repository contains the complete implementation for our research paper comp
 
 ## Key Findings
 
-| Model                     | Pretraining Type         | Accuracy (test) | AUC-ROC (test) |
+| Model                     | Pretraining Type         | Accuracy | AUC-ROC |
 |---------------------------|--------------------------|----------|---------|
 | ConvNeXt-Tiny             | General (ImageNet)       | **93%**  | **98.5%** |
 | EfficientNetV2S           | General (ImageNet)       | 85%      | 96%     |
 | RadImageNet DenseNet121   | Medical (RadImageNet)    | 68%      | 88%     |
 
-**Main Conclusion:** Modern general-purpose CNN architectures pretrained on large-scale natural image datasets outperform domain-specific medical pretraining when limited annotated medical data is available.
+**Main Conclusion:** Modern general-purpose CNN architectures pretrained on large-scale natural image datasets outperform domain-specific medical pretraining on **unseen data** when limited annotated medical data is available.
 
 ## Quick Start
 
