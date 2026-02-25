@@ -22,7 +22,7 @@ This repository contains the complete implementation for our research paper comp
 
 ## Key Findings
 
-| Model                     | Pretraining Type         | Accuracy | AUC-ROC |
+| Model                     | Pretraining Type         | Accuracy (test) | AUC-ROC (test) |
 |---------------------------|--------------------------|----------|---------|
 | ConvNeXt-Tiny             | General (ImageNet)       | **93%**  | **98.5%** |
 | EfficientNetV2S           | General (ImageNet)       | 85%      | 96%     |
